@@ -162,7 +162,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enemyAnimator: {fileID: 2264811728641034770}
-  _enemyStateMachine: {fileID: 5852681888408787523}
 --- !u!114 &6033182896001865045
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -211,10 +210,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b75ca357a1f6094f9770e3f261f73bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _triggerObserver: {fileID: 0}
-  _opponentLocator: {fileID: 1138917629191882967}
-  _enemyMover: {fileID: 6543397451201963524}
-  _enemyAnimator: {fileID: 2264811728641034770}
   _enemyStateMachine: {fileID: 5852681888408787523}
   _unitInfo: {fileID: 2856004967881012872}
 --- !u!114 &1138917629191882967
@@ -243,6 +238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e095af294a9dbee4b86f3eb36feda9fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _enemyStateMachine: {fileID: 5852681888408787523}
 --- !u!114 &4223698042723830189
 MonoBehaviour:
   m_ObjectHideFlags: 0

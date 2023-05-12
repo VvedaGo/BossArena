@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e58fdd7f-f43d-4f76-beb2-d7394f0281ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Hud/GameHud.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Hud/GameHud.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Units/BaseEnemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Units/BaseEnemy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Coin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Coin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyStateMachine/EnemyStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyStateMachine/EnemyStateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameLoopState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameLoopState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/GameFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/GameFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/IGameFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/IGameFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/MatchViewer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/MatchViewer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/States/GameStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Infrastructure/States/GameStateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelInstance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelInstance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelMap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelMap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StaticData/AssetPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StaticData/AssetPath.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldData.cs.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/IGameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaticData/AssetPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/GameUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/MatchViewer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/States/GameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameLoopState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyStateMachine/EnemyStateMachine.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PgOqAlTV7N2N1AatinYFcqPtNl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e58fdd7f-f43d-4f76-beb2-d7394f0281ff" name="Default Changelist" comment="" />
+      <created>1683875450645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683875450645</updated>
+      <workItem from="1683875466210" duration="89000" />
+      <workItem from="1683875619180" duration="1319000" />
+      <workItem from="1683879542070" duration="1247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1683875508018">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1683875508018" />
+  </component>
+</project>

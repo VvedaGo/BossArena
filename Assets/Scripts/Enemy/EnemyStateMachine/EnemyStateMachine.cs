@@ -52,7 +52,8 @@ namespace Enemy.EnemyStateMachine
 
         void ICoroutineRunner.StopCoroutine(Coroutine coroutine)
         {
-            StopCoroutine(coroutine);
+            if(coroutine!=null)
+              StopCoroutine(coroutine);
         }
     }
 }

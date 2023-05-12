@@ -1,5 +1,6 @@
 ﻿using System;
 using Logic;
+using UnityEngine;
 
 
 namespace Infrastructure.Services
@@ -11,6 +12,7 @@ namespace Infrastructure.Services
 
         public void SendEndGame(MatchResult.ResultGame resultGame)
         {
+            Debug.Log("End Game");
             EndGame?.Invoke(resultGame);
         }
     }

@@ -35,7 +35,7 @@ namespace Enemy.EnemyStateMachine
 
         public void Exit()
         {
-            _coroutineRunner.StopCoroutine(_moveCoroutine);
+           
         }
 
         private IEnumerator MoveToTarget()

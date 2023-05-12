@@ -20,9 +20,9 @@ namespace Infrastructure.States
                 [typeof(MenuState)]=new MenuState(this,service.Single<IGameFactory>(),service.Single<ISceneLoader>()),
                 [typeof(LevelLoadState)]=new LevelLoadState(service.Single<IGameFactory>(),this,service.Single<IPersistentProgressService>(),service.Single<ISceneLoader>(),
                     service.Single<IAssetProvider>()),
-                [typeof(GameLoopState)]=new GameLoopState(service.Single<IGameFactory>(),service.Single<MatchViewer>(),service.Single<ISaveLoadService>()
-                    ,service.Single<IPersistentProgressService>()),
-                [typeof(GameEndState)]=new EndGameState()
+                [typeof(GameLoopState)]=new GameLoopState(this,service.Single<IGameFactory>(),service.Single<MatchViewer>(),service.Single<ISaveLoadService>()
+                    ,service.Single<IPersistentProgressService>())
+                
             };
         }
 

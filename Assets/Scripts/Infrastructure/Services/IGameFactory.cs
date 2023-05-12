@@ -13,6 +13,8 @@ namespace Infrastructure.Services
         void GetClosedOpponent(Action<Transform> setTargetUnit, TeamColor teamColor, Vector3 unitPosition);
         void SendFirstTarget();
         MenuUi CreateHudMenu();
-        
+
+        GameUi CreateHudGame();
+
     }
 }

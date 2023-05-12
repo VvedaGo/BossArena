@@ -24,7 +24,7 @@ namespace Infrastructure.Services
         private readonly MatchViewer _matchViewer;
         private readonly IAssetProvider _assetProvider;
         private readonly List<TeamZone> _teamZones;
-        private IGameFactory _gameFactoryImplementation;
+        
         private MatchUnitStorage _matchUnitStorage;
         private AllUnitConfig _unitsConfig;
 
@@ -93,6 +93,12 @@ namespace Infrastructure.Services
             menuUi.Construct(_stateMachine, _persistentProgressService, _saveLoadService);
             menuUi.LoadLevelsInfo(_assetProvider.GetLevels());
             return menuUi;
+        }
+
+        public GameUi CreateHudGame()
+        {
+            GameUi gameUi = Object.Instantiate(Resources.Load<GameUi>(AssetPath.PathGameUi));
+            return gameUi;
         }
 
 
