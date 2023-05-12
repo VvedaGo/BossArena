@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9373ae67a16d05b4b8671254ae4f2f3d, type: 3}
+  m_Name: UnitFootman
+  m_EditorClassIdentifier: 
+  UnitType: 2
+  PrefabBlue: {fileID: 4455354230324649349, guid: d1346ae5e366fa94f967405f87bdb79d, type: 3}
+  PrefabRed: {fileID: 4455354230324649349, guid: 7127ec5b798f00f47945ce6474481d9c, type: 3}
+  Hp: 20
+  Damage: 45
+  AttackReload: 6
+  Speed: 5.5

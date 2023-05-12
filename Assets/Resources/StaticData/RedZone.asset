@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2989d11bb50a49a48847b0dcc6ff8033, type: 3}
+  m_Name: RedZone
+  m_EditorClassIdentifier: 
+  Position: {x: -24.1, y: 1.1, z: 0}
+  Prefab: {fileID: 3457677012761465888, guid: 9aedea83758c1bc45a70c3415177197d, type: 3}

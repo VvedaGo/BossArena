@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9373ae67a16d05b4b8671254ae4f2f3d, type: 3}
+  m_Name: UnitKnight
+  m_EditorClassIdentifier: 
+  UnitType: 1
+  PrefabBlue: {fileID: 4455354230324649349, guid: f2ce3244679df4845902368307a5b244, type: 3}
+  PrefabRed: {fileID: 4455354230324649349, guid: de7cc94f32de87c4fbbe290228059644, type: 3}
+  Hp: 200
+  Damage: 10
+  AttackReload: 2
+  Speed: 1.7
